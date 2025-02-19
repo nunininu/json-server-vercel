@@ -9,8 +9,19 @@
 }
 
 
-users = {
-  "김상득": "rlatkdemr1234!",
-  "user1": "김상득1234!",
-  "admin": "0000"
+{
+  "users": [
+    {
+      "username": "김상득",
+      "password": "rlatkdemr1234!"
+    },
+    {
+      "username": "user1",
+      "password": "김상득1234!"
+    },
+    {
+      "username": "admin",
+      "password": "0000"
+    }
+  ]
 }
