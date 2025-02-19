@@ -7,3 +7,10 @@
   ],
   "profile": { "name": "typicode" }
 }
+
+
+users = {
+  "김상득": "rlatkdemr1234!",
+  "user1": "김상득1234!",
+  "admin": "0000"
+}
